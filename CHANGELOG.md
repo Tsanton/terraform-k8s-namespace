@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.0.1](https://github.com/Tsanton/terraform-k8s-namespace/compare/v1.0.0...v1.0.1) (2022-12-07)
+
+
+### Bug Fixes
+
+* test patch increment ([b5aa203](https://github.com/Tsanton/terraform-k8s-namespace/commit/b5aa203f53166bae5d0c57b46ee20821209cb5df))
+
 ## 1.0.0 (2022-12-07)
 
 
