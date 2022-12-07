@@ -16,7 +16,7 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
-    # Skip running release workflow on forks
+    # Skip running release workflow on forks 
     # if: github.repository_owner == 'terraform-k8s-namespace'
     steps:
       - name: Checkout
